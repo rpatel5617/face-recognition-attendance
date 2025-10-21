@@ -71,6 +71,6 @@ The goal of this system is to **eliminate manual attendance errors**, **improve 
 This repository serves as a **portfolio documentation** of the project.  
 Source code and dataset are not included due to storage limitations and privacy concerns.
 
-📧 **Contact:** rajpatel@email.com  
+📧 **Contact:** prutvik5617@gmail.com
 🔗 **LinkedIn:** linkedin.com/in/rutvik-patel-38631b189  
-🔗 **GitHub:**
+🔗 **GitHub:**  https://github.com/rpatel5617
